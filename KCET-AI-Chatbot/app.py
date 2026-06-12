@@ -4,7 +4,7 @@ import pandas as pd
 from openai import OpenAI
 
 # --- CONFIGURATION ---
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 # Initialize the OpenAI Client safely
 if OPENAI_API_KEY:
